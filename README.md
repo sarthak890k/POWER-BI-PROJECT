@@ -13,7 +13,7 @@ The project demonstrates end-to-end Business Intelligence skills, including data
 ## 🛠️ Tools & Technologies
 
 * Power BI Desktop
-* Power Query
+* Power Query 
 * DAX (Data Analysis Expressions)
 * Microsoft Excel / CSV Dataset
 * Data modeling
