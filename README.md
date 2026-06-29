@@ -123,4 +123,5 @@ The dashboard includes:
 
 ##  Screenshot
 
-*  Dashboard Preview (https://github.com/sarthak890k/POWER-BI-PROJECT/blob/main/Screenshot%202026-06-29%20002643.png)
+<img width="1165" height="652" alt="image" src="https://github.com/user-attachments/assets/449efc54-f371-459a-9d3f-d4eee00935d7" />
+
